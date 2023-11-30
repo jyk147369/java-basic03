@@ -1,4 +1,4 @@
-package day07;
+package day07.AdditionalFeatures;
 
 import java.io.*;
 import java.net.Socket;

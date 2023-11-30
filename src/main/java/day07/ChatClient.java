@@ -8,7 +8,7 @@ public class ChatClient {
         try {
             // 서버로 접속하는 코드
             // 소켓 생성
-            Socket socket = new Socket("192.168.45.38", 9998);
+            Socket socket = new Socket("192.168.0.124", 9998);
             System.out.println("서버와 연결되었습니다.");
 
             // 메시지 송신 스레드 생성

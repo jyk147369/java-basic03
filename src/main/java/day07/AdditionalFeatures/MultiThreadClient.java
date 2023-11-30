@@ -1,4 +1,4 @@
-package day07;
+package day07.AdditionalFeatures;
 
 
 import java.io.*;
@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class MultiThreadClient {
     public static void main(String[] args) {
-        String serverIp = "192.168.0.100";
+        /*String serverIp = "192.168.0.100";
         int serverPort = 9999;
 
         try {
@@ -33,7 +33,7 @@ public class MultiThreadClient {
             }
         } catch (IOException e) {
             throw new RuntimeException(e);
-        }
+        }*/
 
     }
 }
